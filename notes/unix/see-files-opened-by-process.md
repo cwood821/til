@@ -2,17 +2,19 @@
 
 To see a list of files currently open by processes, you can use the [`lsof`](https://en.wikipedia.org/wiki/Lsof) command. Pair with a flag or `grep` for more power.
 
-To see all the files Firefox has open, for example:
+## Examples
+
+See all the files Firefox has open:
 ```bash
 lsof | grep firefox
 ```
 
-To see processes using a file on a specific port number, use the `-i` flag.
+See processes using a file on a specific port numbe with the `-i` flag:
 ```bash
 lsof -i :3000 
 ```
 
-This should return a result like:
+Results are formmated like this:
 ```bash
 COMMAND   PID          USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 node    16150 christianwood   13u  IPv6 0x7cbe288dc6d3a25f      0t0  TCP *:hbci (LISTEN)
