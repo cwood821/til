@@ -9,7 +9,7 @@ See all the files Firefox has open:
 lsof | grep firefox
 ```
 
-See processes using a file on a specific port numbe with the `-i` flag:
+See processes using a file on a specific port number with the `-i` flag:
 ```bash
 lsof -i :3000 
 ```
