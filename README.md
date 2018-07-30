@@ -14,5 +14,5 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
 
-### Vim
+#### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
