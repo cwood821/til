@@ -7,8 +7,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 ---
 
-# Categories
+### Categories
 - [Unix](#unix)
 
-### Unix
+#### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
