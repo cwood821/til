@@ -14,7 +14,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 
 #### Docker
-- [Start Bash inside Docker container](notes/doccker/start-bash-inside-docker-container.md)
+- [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
 
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
