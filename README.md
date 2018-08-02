@@ -9,12 +9,16 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 ### Categories
 - [Docker](#docker)
+- [MySQL](#mysql)
 - [Unix](#unix)
 - [Vim](#vim)
 
 
 #### Docker
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
+
+#### MySQL
+- [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
 
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
