@@ -10,6 +10,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 ### Categories
 - [Docker](#docker)
 - [MySQL](#mysql)
+- [Theory](#theory)
 - [Unix](#unix)
 - [Vim](#vim)
 
@@ -19,6 +20,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
+
+### Theory
+- [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
 
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
