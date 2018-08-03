@@ -21,7 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
 
-##### Theory
+#### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
 
 #### Unix
