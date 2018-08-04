@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-5 notes and counting...
+6 notes and counting...
 
 ---
 
@@ -26,6 +26,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
+- [See differences between files with `diff`](notes/unix/see-file-differeces-with-diff.md)
 
 #### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
