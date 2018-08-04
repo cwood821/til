@@ -26,7 +26,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Unix
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
-- [See differences between files with `diff`](notes/unix/see-file-differeces-with-diff.md)
+- [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 
 #### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
