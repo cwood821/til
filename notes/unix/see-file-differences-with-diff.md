@@ -19,3 +19,5 @@ diff -q --brief example1.txt example2.txt
 ```
 
 This is regularly useful for checking updates and troubleshooting expected responses from services.
+
+See the [man page](https://linux.die.net/man/1/diff) for more options.
