@@ -11,4 +11,10 @@ Sign your commits with the following flags:
 git commit -S -m your commit message
 ```
 
+## Troubleshooting:
 On Mac, you may need to download the [GPG tools suite](https://gpgtools.org/). 
+
+To have git use [gpg2 rather than gpg](https://stackoverflow.com/questions/41052538/git-error-gpg-failed-to-sign-data#41054093):
+```
+git config --global gpg.program gpg2
+```
