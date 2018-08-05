@@ -9,6 +9,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 ### Categories
 - [Docker](#docker)
+- [Git](#git)
 - [MySQL](#mysql)
 - [Theory](#theory)
 - [Unix](#unix)
@@ -17,6 +18,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Docker
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
+
+#### Git
+- [Sign git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
