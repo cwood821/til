@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-7 notes and counting...
+8 notes and counting...
 
 ---
 
@@ -29,6 +29,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
 
 #### Unix
+- [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
 - [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 
