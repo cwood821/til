@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-8 notes and counting...
+9 notes and counting...
 
 ---
 
@@ -20,6 +20,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
 
 #### Git
+- [Create patches with Git](notes/git/create-patches-with-git.md)
 - [Sign git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 
 #### MySQL
@@ -30,7 +31,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Unix
 - [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
-- [See list of files opened by processes](notes/unix/see-files-opened-by-process.md)
+- [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 
 #### Vim
