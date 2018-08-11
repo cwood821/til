@@ -13,6 +13,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [MySQL](#mysql)
 - [Theory](#theory)
 - [Unix](#unix)
+- [Vagrant](#vagrant)
 - [Vim](#vim)
 
 
@@ -33,6 +34,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
 - [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
+
+#### Vagrant
+- [Show list of vagrant environments](notes/vagrant/show-all-vagrant-environments.md)
 
 #### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
