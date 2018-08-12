@@ -22,8 +22,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Git
 - [Create patches with Git](notes/git/create-patches-with-git.md)
-- [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
 - [Sign Git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
+- [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
