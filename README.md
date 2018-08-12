@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-10 notes and counting...
+11 notes and counting...
 
 ---
 
@@ -22,7 +22,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Git
 - [Create patches with Git](notes/git/create-patches-with-git.md)
-- [Sign git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
+- [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
+- [Sign Git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
@@ -32,8 +33,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Unix
 - [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
-- [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
+- [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 
 #### Vagrant
 - [Show list of vagrant environments](notes/vagrant/show-all-vagrant-environments.md)
