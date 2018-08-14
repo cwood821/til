@@ -33,7 +33,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Unix
 - [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
-- [Forward SSH Agent with connection with `-A` flag](notes/unix/forward-ssh-agent-with-conenection.md)
+- [Forward SSH Agent with connection with `-A` flag](notes/unix/forward-ssh-agent-with-connection.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 - [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 
