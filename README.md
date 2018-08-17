@@ -3,12 +3,13 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-13 notes and counting...
+14 notes and counting...
 
 ---
 
 ### Categories
 - [Docker](#docker)
+- [Drupal](#drupal)
 - [Git](#git)
 - [MySQL](#mysql)
 - [Theory](#theory)
@@ -19,6 +20,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Docker
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
+
+#### Drupal
+- [List all registered plugin IDs for blocks with Drush](notes/drupal/list-registered-plugin-ids-for-blocks.md)
 
 #### Git
 - [Create patches with Git](notes/git/create-patches-with-git.md)
