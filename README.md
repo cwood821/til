@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-14 notes and counting...
+15 notes and counting...
 
 ---
 
@@ -23,6 +23,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Drupal
 - [List all registered plugin IDs for blocks with Drush](notes/drupal/list-registered-plugin-ids-for-blocks.md)
+- [Get URL of current page in Drupal Twig](notes/drupal/get-url-of-current-page-drupal-twig.md)
 
 #### Git
 - [Create patches with Git](notes/git/create-patches-with-git.md)
