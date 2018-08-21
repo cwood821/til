@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-15 notes and counting...
+16 notes and counting...
 
 ---
 
@@ -22,6 +22,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
 
 #### Drupal
+- [Add an unlinked item to the breadcrumb in Drupal 8](notes/drupal/add-unlinked-item-to-drupal-breadcrumb.md)
 - [List all registered plugin IDs for blocks with Drush](notes/drupal/list-registered-plugin-ids-for-blocks.md)
 - [Get URL of current page in Drupal Twig](notes/drupal/get-url-of-current-page-drupal-twig.md)
 
