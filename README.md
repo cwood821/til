@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-17 notes and counting...
+18 notes and counting...
 
 ---
 
@@ -12,6 +12,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Drupal](#drupal)
 - [Git](#git)
 - [MySQL](#mysql)
+- [Node](#node)
 - [Theory](#theory)
 - [Unix](#unix)
 - [Vagrant](#vagrant)
@@ -34,6 +35,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
+
+#### Node
+- [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
 
 #### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
