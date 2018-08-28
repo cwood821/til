@@ -15,6 +15,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Theory](#theory)
 - [Unix](#unix)
 - [Vagrant](#vagrant)
+- [Video](#video)
 - [Vim](#vim)
 
 
@@ -46,6 +47,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Vagrant
 - [Show list of vagrant environments](notes/vagrant/show-all-vagrant-environments.md)
+
+### Video
+- [Remove audio from video with ffmpeg `-an`](notes/video/remove-audio-from-video-with-ffmpeg.md)
 
 #### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
