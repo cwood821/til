@@ -7,7 +7,7 @@ ffmpeg -i [input_file] -vcodec copy -an [output_file]
 ```
 
 From the documentation: 
-> The presence of -an disables audio stream selection for out2.mkv.
+> The presence of -an disables audio stream selection
 
 See on [Stackoverflow](https://superuser.com/questions/268985/remove-audio-from-video-file-with-ffmpeg#268986) and [official documentation](https://ffmpeg.org/ffmpeg.html#Audio-Options).
 
