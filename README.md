@@ -48,7 +48,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Vagrant
 - [Show list of vagrant environments](notes/vagrant/show-all-vagrant-environments.md)
 
-### Video
+#### Video
 - [Remove audio from video with ffmpeg `-an`](notes/video/remove-audio-from-video-with-ffmpeg.md)
 
 #### Vim
