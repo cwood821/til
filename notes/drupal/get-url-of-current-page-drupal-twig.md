@@ -15,4 +15,4 @@ Note: This will return a render array. To get at the value, you might use the [r
 {{ cur_page_url["#markup"] }}
 ```
 
-Drupal 8 has a other [Twig extensions](https://www.drupal.org/docs/8/theming/twig/functions-in-twig-templates) available in core.
+Drupal 8 has other [Twig extensions](https://www.drupal.org/docs/8/theming/twig/functions-in-twig-templates) available in core.
