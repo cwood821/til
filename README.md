@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-22 notes and counting...
+23 notes and counting...
 
 ---
 
@@ -32,6 +32,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Git
 - [Create patches with Git](notes/git/create-patches-with-git.md)
 - [List branches merged (or not) with current branch](notes/git/list-merged-git-branches.md)
+- [Mark releases with tags](notes/git/mark-releases-with-tags.md)
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
 - [Sign Git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 - [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
