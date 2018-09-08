@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-24 notes and counting...
+25 notes and counting...
 
 ---
 
@@ -13,6 +13,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Git](#git)
 - [MySQL](#mysql)
 - [Node](#node)
+- [PHP](#php)
 - [React](#react)
 - [Theory](#theory)
 - [Unix](#unix)
@@ -42,6 +43,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Node
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
+
+#### PHP
+- [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
