@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-25 notes and counting...
+26 notes and counting...
 
 ---
 
@@ -11,6 +11,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Docker](#docker)
 - [Drupal](#drupal)
 - [Git](#git)
+- [JavaScript](#javascript)
 - [MySQL](#mysql)
 - [Node](#node)
 - [PHP](#php)
@@ -37,6 +38,10 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
 - [Sign Git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 - [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
+
+#### JavaScript
+- [Convert Integer to Hex, Octal, or Binary](convert-integers-to-other-bases.md)
+
 
 #### MySQL
 - [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
