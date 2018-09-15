@@ -1,4 +1,4 @@
-# Convert Integer to Hex, Octal, or Binary
+# Convert an integer to hex, octal, or binary
 
 To convert an integer to a differently-based numeral system, pass the [radix](https://en.wikipedia.org/wiki/Radix) (base) to the `toString` method.
 

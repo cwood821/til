@@ -40,7 +40,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### JavaScript
-- [Convert Integer to Hex, Octal, or Binary](convert-integers-to-other-bases.md)
+- [Convert an integer to hex, octal, or binary](convert-integers-to-other-bases.md)
 
 
 #### MySQL
