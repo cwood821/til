@@ -42,7 +42,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### JavaScript
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
-- [Make an enum-like structure with Object.freeze](notes/javascript/make-an-enum-like-structure.md)
+- [Make an enum-like structure with `Object.freeze`](notes/javascript/make-enum-like-structure.md)
 
 #### MongoDB
 - [Clear shell with `cls` command](notes/mongodb/clear-mongodb-shell.md)
