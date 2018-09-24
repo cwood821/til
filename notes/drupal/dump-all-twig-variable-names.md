@@ -2,7 +2,7 @@
 
 To see all available twig variable names on the current template, you can use `dump()` with the globally available `_context` variable:
 
-```
+```twig
 {{ dump(_context|keys) }}
 ```
 
