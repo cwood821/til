@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-30 notes and counting...
+31 notes and counting...
 
 ---
 
@@ -25,6 +25,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 
 #### Docker
+- [Prune unused images and volumes from machine](notes/docker/prune-unused-images.md)
 - [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
 
 #### Drupal
