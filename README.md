@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-31 notes and counting...
+32 notes and counting...
 
 ---
 
@@ -82,3 +82,4 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Vim
 - [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
+- [Edit file in new tab](notes/vim/edit-file-in-new-tab.md)
