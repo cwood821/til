@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-32 notes and counting...
+33 notes and counting...
 
 ---
 
@@ -81,5 +81,6 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Remove audio from video with ffmpeg `-an`](notes/video/remove-audio-from-video-with-ffmpeg.md)
 
 #### Vim
-- [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
 - [Edit file in new tab](notes/vim/edit-file-in-new-tab.md)
+- [See list of suggested completions for current word](notes/vim/see-completion-suggestions-for-current-word.md)
+- [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
