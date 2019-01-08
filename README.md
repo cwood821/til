@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-33 notes and counting...
+34 notes and counting...
 
 ---
 
@@ -17,6 +17,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Node](#node)
 - [PHP](#php)
 - [React](#react)
+- [SQL Server](#sql-server)
 - [Theory](#theory)
 - [Unix](#unix)
 - [Vagrant](#vagrant)
@@ -61,6 +62,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
+
+#### SQL Server 
+- [Hash values in SQL Server](notes/sql-server/hash-values-in-sql-server.md)
 
 #### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
