@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-37 notes and counting...
+38 notes and counting...
 
 ---
 
@@ -32,6 +32,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Drupal
 - [Add an unlinked item to the breadcrumb in Drupal 8](notes/drupal/add-unlinked-item-to-drupal-breadcrumb.md)
 - [Dump all Twig variable names in the current context](notes/drupal/dump-all-twig-variable-names.md)
+- [Import updated configuration without uninstalling module](notes/drupal/import-updated-configuration.md)
 - [List all registered plugin IDs for blocks with Drush](notes/drupal/list-registered-plugin-ids-for-blocks.md)
 - [Get URL of current page in Drupal Twig](notes/drupal/get-url-of-current-page-drupal-twig.md)
 - [Use optional configuration with modules](notes/drupal/use-optional-configuration-with-modules.md)
