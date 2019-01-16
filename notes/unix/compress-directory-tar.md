@@ -3,7 +3,7 @@
 The `tar` commands compresses files together. You can compress a directory, including all its files, by running:
 
 ```
-tar -zcvf archive-name.tar.gz directory-name
+tar -zcvf archive.tar.gz my-directory
 ```
 
 `z` compresses with gzip, `c` creates an archive, `v` turns on verbose output, `f` represents the archive file name.
