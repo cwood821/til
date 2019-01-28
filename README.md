@@ -3,11 +3,12 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-40 notes and counting...
+41 notes and counting...
 
 ---
 
 ### Categories
+- [Awk](#awk)
 - [Docker](#docker)
 - [Drupal](#drupal)
 - [Git](#git)
@@ -25,6 +26,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Video](#video)
 - [Vim](#vim)
 
+
+#### Awk
+- [Set separator between print statements in awk](notes/awk/set-separator-between-print.md)
 
 #### Docker
 - [Prune unused images and volumes from machine](notes/docker/prune-unused-images.md)
