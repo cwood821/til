@@ -28,11 +28,11 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 
 #### Awk
-- [Set separator between print statements in awk](notes/awk/set-separator-between-print.md)
+- [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
 #### Docker
-- [Prune unused images and volumes from machine](notes/docker/prune-unused-images.md)
-- [Start Bash inside Docker container](notes/docker/start-bash-inside-docker-container.md)
+- [Prune unused images and volumes](notes/docker/prune-unused-images.md)
+- [Start Bash inside container](notes/docker/start-bash-inside-docker-container.md)
 
 #### Drupal
 - [Add an unlinked item to the breadcrumb in Drupal 8](notes/drupal/add-unlinked-item-to-drupal-breadcrumb.md)
@@ -43,12 +43,12 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use optional configuration with modules](notes/drupal/use-optional-configuration-with-modules.md)
 
 #### Git
-- [Create patches with Git](notes/git/create-patches-with-git.md)
+- [Create patches](notes/git/create-patches-with-git.md)
 - [List branches merged (or not) with current branch](notes/git/list-merged-git-branches.md)
 - [Mark releases with tags](notes/git/mark-releases-with-tags.md)
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
-- [Sign Git commits with GPG](notes/git/sign-git-commits-with-gpg.md)
-- [Stash and unstash changes in Git](notes/git/stash-and-unstash-changes-in-git.md)
+- [Sign commits with GPG](notes/git/sign-git-commits-with-gpg.md)
+- [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### JavaScript
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
@@ -56,13 +56,13 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 
 #### Laravel
-- [Turn off exception handling in Laravel tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
+- [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
 
 #### MongoDB
 - [Clear shell with `cls` command](notes/mongodb/clear-mongodb-shell.md)
 
 #### MySQL
-- [Use `group_concat` in MySQL to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
+- [Use `group_concat` to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
 
 #### Node
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
@@ -89,7 +89,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use `dig` to query DNS information](notes/unix/use-dig-to-complement-nslookup.md)
 
 #### Vagrant
-- [Show list of vagrant environments](notes/vagrant/show-all-vagrant-environments.md)
+- [Show list of environments](notes/vagrant/show-all-vagrant-environments.md)
 
 #### Video
 - [Cut a clip from a video with ffmpeg](notes/video/cut-a-clip-from-video.md)
@@ -100,5 +100,5 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Increment and decrement numbers](notes/vim/increment-decrement-numbers.md)
 - [Open a file from filename or path in source code](notes/vim/open-file-from-filename-in-source.md)
 - [See list of suggested completions for current word](notes/vim/see-completion-suggestions-for-current-word.md)
-- [Set the color scheme in Vim with the colorscheme command](notes/vim/set-color-scheme-in-vim.md)
+- [Set the color scheme](notes/vim/set-color-scheme-in-vim.md)
 
