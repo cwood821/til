@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-41 notes and counting...
+42 notes and counting...
 
 ---
 
@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [React](#react)
 - [SQL Server](#sql-server)
 - [Theory](#theory)
+- [Tmux](#tmux)
 - [Unix](#unix)
 - [Vagrant](#vagrant)
 - [Video](#video)
@@ -78,6 +79,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
+
+#### Tmux 
+- [Zoom a panel to full terminal size](notes/tmux/zoom-panel-to-full-size.md)
 
 #### Unix
 - [Check disk usage with `du`](notes/unix/check-disk-usage-with-du.md)
