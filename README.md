@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-42 notes and counting...
+43 notes and counting...
 
 ---
 
@@ -76,6 +76,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### SQL Server 
 - [Hash values in SQL Server](notes/sql-server/hash-values-in-sql-server.md)
+- [Parse string to date](notes/sql-server/parse-string-to-date.md)
 
 #### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
