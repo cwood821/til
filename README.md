@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-45 notes and counting...
+46 notes and counting...
 
 ---
 
@@ -57,6 +57,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 
 #### Laravel
+- [Run test without firing events](notes/laravel/run-test-without-events.md)
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
 
 #### MongoDB
