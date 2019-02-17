@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-46 notes and counting...
+47 notes and counting...
 
 ---
 
@@ -11,6 +11,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Awk](#awk)
 - [Docker](#docker)
 - [Drupal](#drupal)
+- [ElasticSearch](#elasticsearch)
 - [Git](#git)
 - [JavaScript](#javascript)
 - [Laravel](#laravel)
@@ -42,6 +43,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [List all registered plugin IDs for blocks with Drush](notes/drupal/list-registered-plugin-ids-for-blocks.md)
 - [Get URL of current page in Drupal Twig](notes/drupal/get-url-of-current-page-drupal-twig.md)
 - [Use optional configuration with modules](notes/drupal/use-optional-configuration-with-modules.md)
+
+#### ElasticSearch
+- [List indices on an ElasticSearch cluster](notes/elasticsearch/list-indices.md)
 
 #### Git
 - [Create patches](notes/git/create-patches-with-git.md)
