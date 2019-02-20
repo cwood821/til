@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-49 notes and counting...
+50 notes and counting...
 
 ---
 
@@ -113,6 +113,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Find current word forward or back](notes/vim/find-current-word-forward-backward.md)
 - [Increment and decrement numbers](notes/vim/increment-decrement-numbers.md)
 - [Open a file from filename or path in source code](notes/vim/open-file-from-filename-in-source.md)
+- [Open `fzf` result in new tab](notes/vim/open-fzf-result-in-new-tab.md)
 - [See list of suggested completions for current word](notes/vim/see-completion-suggestions-for-current-word.md)
 - [Set the color scheme](notes/vim/set-color-scheme-in-vim.md)
 
