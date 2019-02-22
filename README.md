@@ -61,7 +61,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 
 #### Laravel
-- [Append query parameters to pagination links](notes/laravel/append-query-parameters-to-pagination-links.md)
+- [Append query parameters to pagination links](notes/laravel/append-query-parameters-in-pagination-links.md)
 - [Create model, controller, and migration with one artisan command](notes/laravel/create-model-controller-migration.md) 
 - [Run test without firing events](notes/laravel/run-test-without-events.md)
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
