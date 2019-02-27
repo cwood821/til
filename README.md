@@ -19,7 +19,6 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [MySQL](#mysql)
 - [Node](#node)
 - [PHP](#php)
-- [Rasbperry Pi](#raspberry-pi")
 - [React](#react)
 - [SQL Server](#sql-server)
 - [Theory](#theory)
@@ -78,9 +77,6 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### PHP
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
-
-#### Rasbperry Pi 
-- [Update time on raspberry pi](notes/raspberry-pi/update-time-on-raspberry-pi)
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
