@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-52 notes and counting...
+53 notes and counting...
 
 ---
 
@@ -19,6 +19,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [MySQL](#mysql)
 - [Node](#node)
 - [PHP](#php)
+- [Rasbperry Pi](#raspberry-pi")
 - [React](#react)
 - [SQL Server](#sql-server)
 - [Theory](#theory)
@@ -78,6 +79,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### PHP
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
+#### Rasbperry Pi 
+- [Update time on raspberry pi](notes/raspberry-pi/update-time-on-raspberry-pi)
+
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
 
@@ -114,6 +118,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Find current word forward or back](notes/vim/find-current-word-forward-backward.md)
 - [Increment and decrement numbers](notes/vim/increment-decrement-numbers.md)
 - [Open a file from filename or path in source code](notes/vim/open-file-from-filename-in-source.md)
+- [Open a file from netrw in new tab](notes/vim/open-file-from-netrw-in-new-tab.md)
 - [Open `fzf` result in new tab](notes/vim/open-fzf-result-in-new-tab.md)
 - [See list of suggested completions for current word](notes/vim/see-completion-suggestions-for-current-word.md)
 - [Set the color scheme](notes/vim/set-color-scheme-in-vim.md)
