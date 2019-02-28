@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-53 notes and counting...
+54 notes and counting...
 
 ---
 
@@ -57,6 +57,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### JavaScript
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
+- [List all globally installed NPM packages](notes/javascript/list-globally-installed-packages-npm.md)
 - [Make an enum-like structure with `Object.freeze`](notes/javascript/make-enum-like-structure.md)
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 
