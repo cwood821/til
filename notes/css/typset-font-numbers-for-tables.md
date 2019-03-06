@@ -1,6 +1,6 @@
 # Typset font numbers for tables
 
-To better set typset numeric data in CSS, use `font-feature-settings`.
+To better typset numeric data in CSS, use `font-feature-settings`.
 
 ```css
 .tabular {
