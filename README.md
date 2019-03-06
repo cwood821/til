@@ -34,7 +34,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
 #### CSS 
-- [Typeset numbers for tables with font-settings](notes/css/typset-font-numbers-for-tables.md)
+- [Typeset numbers for tables with font-feature-settings](notes/css/typset-font-numbers-for-tables.md)
 
 #### Docker
 - [Prune unused images and volumes](notes/docker/prune-unused-images.md)
