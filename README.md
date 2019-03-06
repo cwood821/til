@@ -3,12 +3,13 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-55 notes and counting...
+56 notes and counting...
 
 ---
 
 ### Categories
 - [Awk](#awk)
+- [CSS](#css)
 - [Docker](#docker)
 - [Drupal](#drupal)
 - [ElasticSearch](#elasticsearch)
@@ -31,6 +32,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Awk
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
+
+#### CSS 
+- [Typeset numbers for tables with font-settings](notes/css/typset-font-numbers-for-tables.md)
 
 #### Docker
 - [Prune unused images and volumes](notes/docker/prune-unused-images.md)
