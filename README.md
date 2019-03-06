@@ -114,6 +114,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Edit file in new tab](notes/vim/edit-file-in-new-tab.md)
 - [Find current word forward or back](notes/vim/find-current-word-forward-backward.md)
 - [Increment and decrement numbers](notes/vim/increment-decrement-numbers.md)
+- [Lowercase a series of words](notes/vim/lowercase-series-of-words.md)
 - [Open a file from filename or path in source code](notes/vim/open-file-from-filename-in-source.md)
 - [Open a file from netrw in new tab](notes/vim/open-file-from-netrw-in-new-tab.md)
 - [Open `fzf` result in new tab](notes/vim/open-fzf-result-in-new-tab.md)
