@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-56 notes and counting...
+57 notes and counting...
 
 ---
 
@@ -81,6 +81,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
 
 #### PHP
+- [Build http query string from an array with `http_build_query`](notes/php/build-http-query-from-array.md)
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
 #### React
