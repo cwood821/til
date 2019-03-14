@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-57 notes and counting...
+58 notes and counting...
 
 ---
 
@@ -67,6 +67,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Laravel
 - [Append query parameters to pagination links](notes/laravel/append-query-parameters-in-pagination-links.md)
+- [Append computed Eloquent model properties to JSON responses](notes/laravel/append-computed-eloquent-properties-to-json-response.md)
 - [Create model, controller, and migration with one artisan command](notes/laravel/create-model-controller-migration.md) 
 - [Run test without firing events](notes/laravel/run-test-without-events.md)
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
