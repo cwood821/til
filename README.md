@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-59 notes and counting...
+60 notes and counting...
 
 ---
 
@@ -58,6 +58,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Mark releases with tags](notes/git/mark-releases-with-tags.md)
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
 - [Sign commits with GPG](notes/git/sign-git-commits-with-gpg.md)
+- [Show only file names in git log output](notes/git/show-only-filenames-in-git-log.md)
 - [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### JavaScript
