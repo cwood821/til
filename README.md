@@ -58,7 +58,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Mark releases with tags](notes/git/mark-releases-with-tags.md)
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
 - [Sign commits with GPG](notes/git/sign-git-commits-with-gpg.md)
-- [Show only file names in git log output](notes/git/show-only-filenames-in-git-log.md)
+- [Show only filenames in git log output](notes/git/show-only-filenames-in-git-log.md)
 - [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### JavaScript

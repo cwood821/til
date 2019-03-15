@@ -7,7 +7,7 @@ git log --name-only
 ```
 To show name and status (modified, added, etc.) of the files, use `--name-status`
 ```bash
---name-status
+git log ---name-status
 ```
 
 Tacking on `--oneline` makes both options less verbose.
