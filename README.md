@@ -36,7 +36,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### CSS 
 - [Target dark mode with media query](notes/css/target-dark-mode-with-media-query.md)
 - [Typeset numbers for tables with font-feature-settings](notes/css/typset-font-numbers-for-tables.md)
-- [Use `font-display: swap;` to render text in fallback font until @font-face font loads](font-swap-in-css.md)
+- [Use `font-display: swap;` to render text in fallback font until @font-face font loads](notes/css/font-swap-in-css.md)
 
 #### Docker
 - [Prune unused images and volumes](notes/docker/prune-unused-images.md)
