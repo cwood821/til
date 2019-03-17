@@ -1,6 +1,6 @@
 # Use `font-display: swap;` to render text in fallback font until @font-face font loads
 
-When using the [@font-face](https://css-tricks.com/snippets/css/using-font-face/) in CSS, configure the `font-display` property to `swap`. This wil render text in the next available system font before until the custom font has loaded. 
+When using the [@font-face](https://css-tricks.com/snippets/css/using-font-face/) in CSS, set the `font-display` property to `swap`. This will render text in the next available fallback font until the custom font has loaded. 
 
 Here's a tweaked snippet from [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display):
 ```css
@@ -11,6 +11,13 @@ Here's a tweaked snippet from [MDN](https://developer.mozilla.org/en-US/docs/Web
   font-weight: 400;
   font-style: normal;
   font-display: swap;
+}
+```
+
+This would then apply to this snippet:
+```
+p {
+  font-family: "ExampleFont", "Helvetica", "Arial", sans-serif;
 }
 ```
 
