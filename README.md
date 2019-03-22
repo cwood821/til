@@ -86,7 +86,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### PHP
 - [Build http query string from an array with `http_build_query`](notes/php/build-http-query-from-array.md)
-- [Call function on script exit with `register_shutdown_function`](notes/php/call-a-function-on-script-exit.md)
+- [Call function on script exit with `register_shutdown_function`](notes/php/call-function-on-script-exit.md)
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
 #### React
