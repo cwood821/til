@@ -2,9 +2,9 @@
 
 In MySQL, use the `describe` or `explain` statement to see the schema of a table. 
 
-```sql
-use MyDatabase;
-describe users;
+```SQL
+USE MyDatabase;
+DESCRIBE users;
 ```
 
 This is useful for exploring existing databases from the command line. 
