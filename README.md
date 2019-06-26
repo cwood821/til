@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-69 notes and counting...
+70 notes and counting...
 
 ---
 
@@ -100,6 +100,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
 #### Python
+- [Extend behavior of functions with decorators](change-function-behavior-with-decorators.md)
 - [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
 
 #### React
