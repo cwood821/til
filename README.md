@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-68 notes and counting...
+69 notes and counting...
 
 ---
 
@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Networking](#networking)
 - [Node](#node)
 - [PHP](#php)
+- [Python](#python)
 - [React](#react)
 - [SQL Server](#sql-server)
 - [Theory](#theory)
@@ -97,6 +98,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Build http query string from an array with `http_build_query`](notes/php/build-http-query-from-array.md)
 - [Call function on script exit with `register_shutdown_function`](notes/php/call-function-on-script-exit.md)
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
+
+#### Python
+- [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
