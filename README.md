@@ -100,7 +100,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 
 #### Python
-- [Extend behavior of functions with decorators](change-function-behavior-with-decorators.md)
+- [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
 - [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
 
 #### React
