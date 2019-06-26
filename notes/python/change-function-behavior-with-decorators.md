@@ -13,7 +13,7 @@ def some_decorator(func):
 def say_hello():
     print("Hello")
 
-say_hello = some_decorator(say_whee)
+say_hello = some_decorator(say_hello)
 
 say_hello()
 # Will print:
