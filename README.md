@@ -23,6 +23,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [PHP](#php)
 - [Python](#python)
 - [React](#react)
+- [Rust](#rust)
 - [SQL Server](#sql-server)
 - [Theory](#theory)
 - [Tmux](#tmux)
@@ -106,7 +107,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
 
-### Rust
+#### Rust
 - [Format string output](notes/rust/format-string-output.md)
 
 #### SQL Server 
