@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-70 notes and counting...
+71 notes and counting...
 
 ---
 
@@ -105,6 +105,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
+
+### Rust
+- [Format string output](notes/rust/format-string-output.md)
 
 #### SQL Server 
 - [Hash values in SQL Server](notes/sql-server/hash-values-in-sql-server.md)
