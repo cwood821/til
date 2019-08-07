@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-73 notes and counting...
+74 notes and counting...
 
 ---
 
@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Networking](#networking)
 - [Node](#node)
 - [PHP](#php)
+- [PHPUnit](#phpunit)
 - [Python](#python)
 - [React](#react)
 - [Rust](#rust)
@@ -101,6 +102,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Call function on script exit with `register_shutdown_function`](notes/php/call-function-on-script-exit.md)
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 - [Declare nullable types](notes/php/declare-nullable-types.md)
+
+#### PHPUnit
+- [Set a default test suite](notes/phpunit/set-default-test-suite.md)
 
 #### Python
 - [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
