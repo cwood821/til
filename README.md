@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-74 notes and counting...
+75 notes and counting...
 
 ---
 
@@ -115,6 +115,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Rust
 - [Format string output](notes/rust/format-string-output.md)
+- [Use `rustup` to manage installed versions of Rust](notes/rust/use-rustup-manage-versions.md)
 
 #### SQL Server 
 - [Hash values in SQL Server](notes/sql-server/hash-values-in-sql-server.md)
