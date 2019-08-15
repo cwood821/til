@@ -73,7 +73,6 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### JavaScript
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
-- [List all globally installed NPM packages](notes/javascript/list-globally-installed-packages-npm.md)
 - [Make an enum-like structure with `Object.freeze`](notes/javascript/make-enum-like-structure.md)
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 
@@ -97,6 +96,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Filter Wireshark traffic by an IP address source](notes/networking/filter-wireshark-by-ip-source.md)
 
 #### Node
+- [List all globally installed NPM packages](notes/javascript/list-globally-installed-packages-npm.md)
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
 
 #### PHP
