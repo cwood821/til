@@ -59,6 +59,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [List indices on an ElasticSearch cluster](notes/elasticsearch/list-indices.md)
 
 #### Git
+- [Ammend previous commit message](notes/git/ammend-previous-commit-message.md)
 - [Create patches](notes/git/create-patches-with-git.md)
 - [Get path to root of repository](notes/git/get-path-to-repo-root.md)
 - [List branches merged (or not) with current branch](notes/git/list-merged-git-branches.md)
