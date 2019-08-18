@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-80 notes and counting...
+81 notes and counting...
 
 ---
 
@@ -141,6 +141,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Compress a directory with `tar`](notes/unix/compress-directory-tar.md)
 - [Forward SSH Agent with connection with `-A` flag](notes/unix/forward-ssh-agent-with-connection.md)
 - [Peek at just headers of CSV file](notes/unix/peek-csv-headers.md)
+- [Print sorted disk usage across device](notes/unix/print-sorted-disk-usage.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 - [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 - [Test headers with `curl`](notes/unix/test-headers-with-curl.md)
