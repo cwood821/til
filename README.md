@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-79 notes and counting...
+80 notes and counting...
 
 ---
 
@@ -62,6 +62,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Ammend previous commit message](notes/git/ammend-previous-commit-message.md)
 - [Create patches](notes/git/create-patches-with-git.md)
 - [Get path to root of repository](notes/git/get-path-to-repo-root.md)
+- [Hide untracked files in git status](notes/git/hide-untracked-files-in-git-status.md)
 - [List branches merged (or not) with current branch](notes/git/list-merged-git-branches.md)
 - [Mark releases with tags](notes/git/mark-releases-with-tags.md)
 - [Remove stale remote tracking branches](notes/git/remote-stale-remote-tracking-branches.md)
