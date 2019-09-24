@@ -115,6 +115,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Python
 - [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
 - [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
+- [Unpack sequences and collections with star operator](notes/python/unpack-sequence-with-star-operator.md)
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
