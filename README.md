@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-82 notes and counting...
+84 notes and counting...
 
 ---
 
@@ -118,6 +118,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
+- [Run cleanup function with `useEffect`](notes/react/run-cleanup-function-with-useeffect.md)
 
 #### Rust
 - [Format string output](notes/rust/format-string-output.md)
