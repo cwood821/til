@@ -9,6 +9,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 ### Categories
 - [Awk](#awk)
+- [Bash](#bash)
 - [CSS](#css)
 - [Docker](#docker)
 - [Drupal](#drupal)
