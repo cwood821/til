@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-86 notes and counting...
+87 notes and counting...
 
 ---
 
@@ -41,6 +41,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Bash
 - [Mark variables as readonly](notes/bash/mark-variables-as-readonly.md)
+- [Use arrays in Bash](notes/bash/use-arrays.md)
 
 #### CSS 
 - [Target dark mode with media query](notes/css/target-dark-mode-with-media-query.md)
