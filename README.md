@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-87 notes and counting...
+88 notes and counting...
 
 ---
 
@@ -37,6 +37,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 
 #### Awk
+- [Get index of character in string](notes/awk/get-index-of-character-in-string.md)
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
 #### Bash
