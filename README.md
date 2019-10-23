@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-88 notes and counting...
+89 notes and counting...
 
 ---
 
@@ -102,6 +102,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Networking
 - [Filter Wireshark traffic by an IP address source](notes/networking/filter-wireshark-by-ip-source.md)
+- [Use `dig` to query DNS information](notes/networking/use-dig-to-complement-nslookup.md)
+- [Set DNS server for dig command](notes/networking/set-dns-server-for-dig-command.md)
 
 #### Node
 - [List all globally installed NPM packages](notes/javascript/list-globally-installed-packages-npm.md)
