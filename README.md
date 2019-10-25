@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-89 notes and counting...
+90 notes and counting...
 
 ---
 
@@ -93,6 +93,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### MongoDB
 - [Clear shell with `cls` command](notes/mongodb/clear-mongodb-shell.md)
+- [Dump database to archive](notes/mongodb/dump-database-to-archive.md)
 
 #### MySQL
 - [Use `group_concat` to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
