@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-90 notes and counting...
+91 notes and counting...
 
 ---
 
@@ -120,6 +120,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### PHPUnit
 - [Set a default test suite](notes/phpunit/set-default-test-suite.md)
 - [Set constants in config file](notes/phpunit/set-constants-in-config.md)
+- [Use data providers to provide variations on input](notes/phpunit/use-data-providers.md)
 
 #### Python
 - [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
