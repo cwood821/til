@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-92 notes and counting...
+93 notes and counting...
 
 ---
 
@@ -41,6 +41,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
 #### Bash
+- [Get PID of shell running script](notes/bash/get-pid-of-shell-running-script.md)
 - [Mark variables as readonly](notes/bash/mark-variables-as-readonly.md)
 - [Use arrays in Bash](notes/bash/use-arrays.md)
 
