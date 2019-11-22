@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-94 notes and counting...
+95 notes and counting...
 
 ---
 
@@ -17,6 +17,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [ElasticSearch](#elasticsearch)
 - [Git](#git)
 - [JavaScript](#javascript)
+- [Jest](#jest)
 - [Laravel](#laravel)
 - [MongoDB](#mongodb)
 - [MySQL](#mysql)
@@ -83,6 +84,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Sign commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 - [Show only filenames in git log output](notes/git/show-only-filenames-in-git-log.md)
 - [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
+
+#### Jest
+- [Define `window.location.href` for an individual test](notes/jest/define-window-location-for-individual-test.md)
 
 #### JavaScript
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
