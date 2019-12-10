@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-95 notes and counting...
+96 notes and counting...
 
 ---
 
@@ -159,6 +159,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Zoom a panel to full terminal size](notes/tmux/zoom-panel-to-full-size.md)
 
 #### Unix
+- [Base64 encode/decode data with `base64`](notes/unix/base64-encode-decode.md)
 - [Check disk usage with `du`](notes/unix/check-disk-usage-with-du.md)
 - [Check file mime type with `file` command](notes/unix/check-file-mimetype.md)
 - [Compress a directory with `tar`](notes/unix/compress-directory-tar.md)
