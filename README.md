@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-96 notes and counting...
+97 notes and counting...
 
 ---
 
@@ -107,6 +107,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### MySQL
 - [Use `group_concat` to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
+- [Perform case-sensitive string comparison with `BINARY` keyword](notes/mysql/perform-case-sensitive-comparison-with-binary.md)
 - [See system configuration values](notes/mysql/see-configuration-values.md)
 - [See the schema of a table](notes/mysql/see-schema-with-describe.md)
 - [Show privileges for user](notes/mysql/show-privileges-for-user.md)
