@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-98 notes and counting...
+99 notes and counting...
 
 ---
 
@@ -183,6 +183,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Vim
 - [Edit file in new tab](notes/vim/edit-file-in-new-tab.md)
+- [Delete without overwriting yanked text](notes/vim/delete-without-overwriting-yanked-text.md)
 - [Find current word forward or back](notes/vim/find-current-word-forward-backward.md)
 - [Increment and decrement numbers](notes/vim/increment-decrement-numbers.md)
 - [Lowercase a series of words](notes/vim/lowercase-series-of-words.md)
