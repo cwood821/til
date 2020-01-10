@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-99 notes and counting...
+100 notes and counting...
 
 ---
 
@@ -178,6 +178,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Show list of environments](notes/vagrant/show-all-vagrant-environments.md)
 
 #### Video
+- [Convert an mp4 to a gif with ffmpeg](notes/video/convert-mp4-to-gif.md)
 - [Cut a clip from a video with ffmpeg](notes/video/cut-a-clip-from-video.md)
 - [Remove audio from video with ffmpeg `-an`](notes/video/remove-audio-from-video-with-ffmpeg.md)
 
