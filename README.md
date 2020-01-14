@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-100 notes and counting...
+101 notes and counting...
 
 ---
 
@@ -119,7 +119,8 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Set DNS server for dig command](notes/networking/set-dns-server-for-dig-command.md)
 
 #### Node
-- [List all globally installed NPM packages](notes/javascript/list-globally-installed-packages-npm.md)
+- [Inspect large objects](notes/node/inspect-large-objects.md)
+- [List all globally installed NPM packages](notes/node/list-globally-installed-packages-npm.md)
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
 
 #### PHP
