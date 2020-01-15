@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-101 notes and counting...
+102 notes and counting...
 
 ---
 
@@ -23,6 +23,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [MySQL](#mysql)
 - [Networking](#networking)
 - [Node](#node)
+- [Numpy](#numpy)
 - [PHP](#php)
 - [PHPUnit](#phpunit)
 - [Python](#python)
@@ -122,6 +123,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Inspect large objects](notes/node/inspect-large-objects.md)
 - [List all globally installed NPM packages](notes/node/list-globally-installed-packages-npm.md)
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
+
+#### Numpy 
+- [Transpose a numpy array (matrix) with `.T`](notes/numpy/transpose-matrix.md)
 
 #### PHP
 - [Assign many variables from an array with `list`](notes/php/assign-many-variables-from-array.md)
