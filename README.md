@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-104 notes and counting...
+105 notes and counting...
 
 ---
 
@@ -109,6 +109,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Dump database to archive](notes/mongodb/dump-database-to-archive.md)
 
 #### MySQL
+- [Dump database without locking](notes/mysql/dump-database-without-blocking-writes.md)
 - [Use `group_concat` to concatenate group results into a single string](notes/mysql/use-group-concat-to-group-results.md)
 - [Perform case-sensitive string comparison with `BINARY` keyword](notes/mysql/perform-case-sensitive-comparison-with-binary.md)
 - [See system configuration values](notes/mysql/see-configuration-values.md)
