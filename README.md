@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-105 notes and counting...
+106 notes and counting...
 
 ---
 
@@ -145,6 +145,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
 - [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
 - [Unpack sequences and collections with star operator](notes/python/unpack-sequence-with-star-operator.md)
+- [Use union type hints](notes/python/use-union-type-hints.md)
 
 #### React
 - [Use class properties to simplify handler functions](notes/react/use-class-properties-to-simplify-handlers.md)
