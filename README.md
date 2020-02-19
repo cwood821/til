@@ -182,7 +182,6 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 - [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
 - [Test headers with `curl`](notes/unix/test-headers-with-curl.md)
-- [Use `dig` to query DNS information](notes/unix/use-dig-to-complement-nslookup.md)
 
 #### Vagrant
 - [Show list of environments](notes/vagrant/show-all-vagrant-environments.md)
