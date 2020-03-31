@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-108 notes and counting...
+109 notes and counting...
 
 ---
 
@@ -124,6 +124,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Node
 - [Inspect large objects](notes/node/inspect-large-objects.md)
 - [List all globally installed NPM packages](notes/node/list-globally-installed-packages-npm.md)
+- [List outdated packages with NPM `outdated`](notes/node/list-outdated-packages.md)
 - [Pass data to all views in Express with `res.locals` object](notes/node/pass-data-to-all-views-with-locals.md)
 
 #### Numpy 
