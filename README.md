@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-109 notes and counting...
+110 notes and counting...
 
 ---
 
@@ -118,8 +118,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Networking
 - [Filter Wireshark traffic by an IP address source](notes/networking/filter-wireshark-by-ip-source.md)
-- [Use `dig` to query DNS information](notes/networking/use-dig-to-complement-nslookup.md)
+- [Ping over a specific network interface with `-I`](notes/networking/ping-over-specific-interface.md)
 - [Set DNS server for dig command](notes/networking/set-dns-server-for-dig-command.md)
+- [Use `dig` to query DNS information](notes/networking/use-dig-to-complement-nslookup.md)
 
 #### Node
 - [Inspect large objects](notes/node/inspect-large-objects.md)
