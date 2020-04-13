@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-110 notes and counting...
+111 notes and counting...
 
 ---
 
@@ -123,6 +123,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use `dig` to query DNS information](notes/networking/use-dig-to-complement-nslookup.md)
 
 #### Node
+- [Handle POSIX signals with callback](notes/node/handle-signals.md)
 - [Inspect large objects](notes/node/inspect-large-objects.md)
 - [List all globally installed NPM packages](notes/node/list-globally-installed-packages-npm.md)
 - [List outdated packages with NPM `outdated`](notes/node/list-outdated-packages.md)
