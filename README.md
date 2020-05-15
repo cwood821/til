@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-111 notes and counting...
+112 notes and counting...
 
 ---
 
@@ -148,6 +148,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Python
 - [Extend behavior of functions with decorators](notes/python/change-function-behavior-with-decorators.md)
 - [Filter a list with list comprehension](notes/python/filter-list-with-comprehension.md)
+- [Profile program with `cProfile`](notes/python/profile-program-with-cprofile.py)
 - [Unpack sequences and collections with star operator](notes/python/unpack-sequence-with-star-operator.md)
 - [Use union type hints](notes/python/use-union-type-hints.md)
 
