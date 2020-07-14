@@ -44,6 +44,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
 #### Bash
+- [Extract substrings from variables](notes/bash/extract-substrings.md)
 - [Get PID of shell running script](notes/bash/get-pid-of-shell-running-script.md)
 - [Mark variables as readonly](notes/bash/mark-variables-as-readonly.md)
 - [Use arrays in Bash](notes/bash/use-arrays.md)
