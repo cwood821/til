@@ -1,6 +1,6 @@
 # Destructure named array values in PHP
 
-To desctructure a value value from a named array, use this syntax:
+To destructure a value value from a named array, use this syntax:
 
 ```php
 $arr = ["ID" => 3];
