@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-117 notes and counting...
+118 notes and counting...
 
 ---
 
@@ -176,6 +176,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
 
 #### Tmux 
+- [Send copied text to OS clipboard](notes/tmux/send-copied-text-to-os-clipboard.md)
 - [Zoom a panel to full terminal size](notes/tmux/zoom-panel-to-full-size.md)
 
 #### Unix
