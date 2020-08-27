@@ -96,11 +96,11 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Check if number type is a safe integer](notes/javascript/check-integer-safety.md)
 - [Convert an integer to hex, octal, or binary](notes/javascript/convert-integers-to-other-bases.md)
 - [Get epsilon value in Javascript](notes/javascript/get-machine-epsilon-value.md)
+- [ISO date strings without timezones are handled differently across browsers](notes/javascript/date-strings-browsers.md)
 - [Make an enum-like structure with `Object.freeze`](notes/javascript/make-enum-like-structure.md)
 - [Maps keep key insertion order and are iterable](notes/javascript/maps-keep-key-insertion-order.md)
 - [Rename destructured variables](notes/javascript/rename-destructered-variables.md)
 - [Send message to parent window from iframe or popup](notes/javascript/send-message-to-parent-window-from-iframe.md)
-- [ISO date strings without timezones are handled differently across browsers](notes/javascript/date-strings-browsers.md)
 
 #### Laravel
 - [Append computed Eloquent model properties to JSON responses](notes/laravel/append-computed-eloquent-properties-to-json-response.md)
