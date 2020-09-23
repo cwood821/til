@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-119 notes and counting...
+120 notes and counting...
 
 ---
 
@@ -16,6 +16,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Drupal](#drupal)
 - [ElasticSearch](#elasticsearch)
 - [Git](#git)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Jest](#jest)
 - [Laravel](#laravel)
@@ -87,6 +88,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Sign commits with GPG](notes/git/sign-git-commits-with-gpg.md)
 - [Show only filenames in git log output](notes/git/show-only-filenames-in-git-log.md)
 - [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
+
+#### HTML
+- [Set start number of `ol` tag](notes/html/set-start-ol.md)
 
 #### Jest
 - [Define `window.location.href` for an individual test](notes/jest/define-window-location-for-individual-test.md)
