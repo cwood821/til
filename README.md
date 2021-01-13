@@ -3,12 +3,13 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-120 notes and counting...
+121 notes and counting...
 
 ---
 
 ### Categories
 - [Awk](#awk)
+- [AWS](#aws)
 - [Bash](#bash)
 - [CSS](#css)
 - [Data Structures](#data-structures)
@@ -44,13 +45,17 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Get index of character in string](notes/awk/get-index-of-character-in-string.md)
 - [Set separator between print statements](notes/awk/set-separator-between-print.md)
 
+#### AWS
+
+- [Query CloudFormation Stacks by tag](notes/aws/query-stacks-by-tag.md)
+
 #### Bash
 - [Extract substrings from variables](notes/bash/extract-substrings.md)
 - [Get PID of shell running script](notes/bash/get-pid-of-shell-running-script.md)
 - [Mark variables as readonly](notes/bash/mark-variables-as-readonly.md)
 - [Use arrays in Bash](notes/bash/use-arrays.md)
 
-#### CSS 
+#### CSS
 - [Target dark mode with media query](notes/css/target-dark-mode-with-media-query.md)
 - [Typeset numbers for tables with font-feature-settings](notes/css/typset-font-numbers-for-tables.md)
 - [Use `font-display: swap;` to render text in fallback font until @font-face font loads](notes/css/font-swap-in-css.md)
