@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-121 notes and counting...
+122 notes and counting...
 
 ---
 
@@ -153,6 +153,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Compact variables into an array](notes/php/compact-variables-into-array.md)
 - [Declare nullable types](notes/php/declare-nullable-types.md)
 - [Desctructure named array values](notes/php/destructure-named-array-values.md)
+- [Format `debug_backtrace` as JSON](notes/php/format-debug-backtrace.md)
 - [Open REPL with `-a` option](notes/php/open-repl.md)
 
 #### PHPUnit
