@@ -1,8 +1,8 @@
 # ISO Date strings without timezones are interpreted differently across browsers
 
-Date strings in the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format that leave off a timezon might be interpreted differently depending on the browser when instantiating a Date object.
+Date strings in the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format that leave off a timezone might be interpreted differently depending on the browser when instantiating a Date object.
 
-Firefox and Chrome (at time of writing) will intepret strings missing timezones as originating in users timezone, Safari will interpret them as originating from timezone z (utc+-00:00). 
+Firefox and Chrome (at time of writing) will intepret strings missing timezones as originating in the user's timezone, Safari will interpret those strings as originating from timezone z (utc+-00:00). 
 
 Firefox:
 ```js
