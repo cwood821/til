@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-122 notes and counting...
+123 notes and counting...
 
 ---
 
@@ -203,6 +203,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Schedule a cron job to run every X minutes](notes/unix/schedule-cron-every-x-minutes.md)
 - [See differences between files with `diff`](notes/unix/see-file-differences-with-diff.md)
 - [See list of files opened by processes with `lsof`](notes/unix/see-files-opened-by-process.md)
+- [Send cookies with `curl` `-b`](notes/unix/send-cookies-with-curl.md)
 - [Test headers with `curl`](notes/unix/test-headers-with-curl.md)
 
 #### Vagrant
