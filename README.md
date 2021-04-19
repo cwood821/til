@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-126 notes and counting...
+127 notes and counting...
 
 ---
 
@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [JavaScript](#javascript)
 - [Jest](#jest)
 - [Laravel](#laravel)
+- [Mac OS](#macos)
 - [MongoDB](#mongodb)
 - [MySQL](#mysql)
 - [Networking](#networking)
@@ -117,6 +118,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Create model, controller, and migration with one artisan command](notes/laravel/create-model-controller-migration.md) 
 - [Run test without firing events](notes/laravel/run-test-without-events.md)
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
+
+#### Mac OS
+- [Show Hidden Files/Folders in Finder `CMD + Shift + .`] 
 
 #### MongoDB
 - [Clear shell with `cls` command](notes/mongodb/clear-mongodb-shell.md)
