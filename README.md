@@ -120,7 +120,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
 
 #### Mac OS
-- [Show Hidden Files/Folders in Finder `CMD + Shift + .`] 
+- [Show Hidden Files/Folders in Finder `CMD + Shift + .`](notes/macos/show-hidden-files-finder.md)
 
 #### MongoDB
 - [Clear shell with `cls` command](notes/mongodb/clear-mongodb-shell.md)
