@@ -21,7 +21,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [JavaScript](#javascript)
 - [Jest](#jest)
 - [Laravel](#laravel)
-- [Mac OS](#macos)
+- [Mac OS](#mac-os)
 - [MongoDB](#mongodb)
 - [MySQL](#mysql)
 - [Networking](#networking)
