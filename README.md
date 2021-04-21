@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-128 notes and counting...
+129 notes and counting...
 
 ---
 
@@ -53,6 +53,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Bash
 - [Extract substrings from variables](notes/bash/extract-substrings.md)
 - [Get PID of shell running script](notes/bash/get-pid-of-shell-running-script.md)
+- [Make an array of files from glob pattern](notes/bash/make-array-files-pattern.md)
 - [Mark variables as readonly](notes/bash/mark-variables-as-readonly.md)
 - [Use arrays in Bash](notes/bash/use-arrays.md)
 
