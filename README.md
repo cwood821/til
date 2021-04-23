@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-129 notes and counting...
+130 notes and counting...
 
 ---
 
@@ -205,6 +205,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Convert text files from one character set to another with `iconv`](notes/unix/convert-text-file-character-set.md)
 - [Execute multiple commands with `xargs`](notes/unix/execute-multiple-commands-with-xargs.md)
 - [Forward SSH Agent with connection with `-A` flag](notes/unix/forward-ssh-agent-with-connection.md)
+- [Get fingerpint of ssh key](notes/unix/get-fingerprint-ssh-key.md)
 - [Peek at just headers of CSV file](notes/unix/peek-csv-headers.md)
 - [Print sorted disk usage across device](notes/unix/print-sorted-disk-usage.md)
 - [Schedule a cron job to run every X minutes](notes/unix/schedule-cron-every-x-minutes.md)
