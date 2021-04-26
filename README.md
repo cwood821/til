@@ -192,6 +192,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 
 #### Theory
 - [Use CAP Theorem to guide database choices](notes/theory/use-cap-theorem.md)
+- [Distinguish Nominal vs Structural subtypes](notes/theory/nominal-structural-subtypes.md)
 
 #### Tmux 
 - [Send copied text to OS clipboard](notes/tmux/send-copied-text-to-os-clipboard.md)
