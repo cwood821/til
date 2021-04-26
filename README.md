@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-130 notes and counting...
+131 notes and counting...
 
 ---
 
@@ -181,6 +181,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Rust
 - [Format string output](notes/rust/format-string-output.md)
 - [Use `rustup` to manage installed versions of Rust](notes/rust/use-rustup-manage-versions.md)
+- [Run clippy (linter)](notes/rust/run-clippy.md)
 
 #### SQLite 
 - [List tables and show schema from cli](notes/sqlite/list-tables-and-show-schema.md)
