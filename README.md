@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-133 notes and counting...
+134 notes and counting...
 
 ---
 
@@ -113,6 +113,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Pad string with padStart](notes/javascript/pad-strings.md)
 - [Rename destructured variables](notes/javascript/rename-destructered-variables.md)
 - [Send message to parent window from iframe or popup](notes/javascript/send-message-to-parent-window-from-iframe.md)
+- [Use `postMessage` API to send messages to Service Worker](notes/javascript/send-message-to-service-worker.md)
 
 #### Laravel
 - [Append computed Eloquent model properties to JSON responses](notes/laravel/append-computed-eloquent-properties-to-json-response.md)
