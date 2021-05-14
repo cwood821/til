@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-138 notes and counting...
+139 notes and counting...
 
 ---
 
@@ -146,6 +146,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Ping over a specific network interface with `-I`](notes/networking/ping-over-specific-interface.md)
 - [Set DNS server for dig command](notes/networking/set-dns-server-for-dig-command.md)
 - [Use `dig` to query DNS information](notes/networking/use-dig-to-complement-nslookup.md)
+- [Query for types of DNS records with dig](notes/networking/query-dns-records-by-type.md)
 
 #### Node
 - [Handle POSIX signals with callback](notes/node/handle-signals.md)
