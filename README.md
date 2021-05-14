@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-139 notes and counting...
+140 notes and counting...
 
 ---
 
@@ -126,6 +126,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Turn off exception handling in tests](notes/laravel/turn-off-exceptions-in-laravel-tests.md)
 
 #### Mac OS
+- [List available devices and runtimes in the Simulator App](notes/macos/show-available-devices-simulator.md)
 - [Show Hidden Files/Folders in Finder `CMD + Shift + .`](notes/macos/show-hidden-files-finder.md)
 
 #### MongoDB
