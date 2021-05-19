@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-142 notes and counting...
+143 notes and counting...
 
 ---
 
@@ -58,6 +58,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Use arrays in Bash](notes/bash/use-arrays.md)
 
 #### CSS
+- [Add unit at end of `calc` expression](notes/add-unit-end-calc.md)
 - [Load animation css separately based on user preference](notes/css/load-animations-separate)
 - [Target dark mode with media query](notes/css/target-dark-mode-with-media-query.md)
 - [Typeset numbers for tables with font-feature-settings](notes/css/typset-font-numbers-for-tables.md)
