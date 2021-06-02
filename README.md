@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-145 notes and counting...
+146 notes and counting...
 
 ---
 
@@ -102,6 +102,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [Stash and unstash changes](notes/git/stash-and-unstash-changes-in-git.md)
 
 #### HTML
+- [Semantically represent program output](notes/html/represent-program-output.md)
 - [Set start number of `ol` tag](notes/html/set-start-ol.md)
 
 #### Jest
