@@ -36,7 +36,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [SQL Server](#sql-server)
 - [Theory](#theory)
 - [Tmux](#tmux)
-- [TypeScript][#typescript]
+- [TypeScript](#typescript)
 - [Unix](#unix)
 - [Vagrant](#vagrant)
 - [Video](#video)
