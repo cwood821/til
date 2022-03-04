@@ -3,7 +3,7 @@
 This repository tracks the snippets, notes, and ephemera that don't warrant a blog post but may prove useful later.
 Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimmet](http://www.cagrimmett.com/til/).
 
-146 notes and counting...
+147 notes and counting...
 
 ---
 
@@ -36,6 +36,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 - [SQL Server](#sql-server)
 - [Theory](#theory)
 - [Tmux](#tmux)
+- [TypeScript][#typescript]
 - [Unix](#unix)
 - [Vagrant](#vagrant)
 - [Video](#video)
@@ -210,6 +211,9 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Chuck Grimm
 #### Tmux 
 - [Send copied text to OS clipboard](notes/tmux/send-copied-text-to-os-clipboard.md)
 - [Zoom a panel to full terminal size](notes/tmux/zoom-panel-to-full-size.md)
+
+#### TypeScript
+- [Mimic nominal types with tags](notes/typescript/mimic-nominal-types-tags.md)
 
 #### Unix
 - [Add a user to a group](notes/unix/add-user-to-group.md)
